@@ -1,2 +1,2 @@
 # JS-DOM
-Estudos com JS
+Exemplos simples e comentados sobre a manipulação do DOM com JS
